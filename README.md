@@ -1,7 +1,7 @@
 # weatherDiary
 날씨 정보를 이용한 일기쓰기 프로젝트 
 
-Use skill: Spring, Jpa, Mysql
+Use skill: Spring Boot, Jpa, Mysql
 
 Goal: 날씨 정보 Open API를 통해 일기를 작성한다.
 
